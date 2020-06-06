@@ -1,0 +1,3 @@
+Upload these two files
+TfidfVectorizer must have the vocabulary set to dictionary
+The model will predict the result
